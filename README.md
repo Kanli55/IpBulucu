@@ -1,13 +1,13 @@
 # IpBulucu
-Bu python betiyi sitenin urlsine göre ip adresini çıkartır
+Bu python betiyi sitenin url'sine göre ip adresini çıkartır
 
 # Yükleme
 ```shell code
-apt update && apt upgrade
-pkg install git
+sudo apt update && sudo apt upgrade
+sudo apt install git
 git clone https://github.com/Kanli55/IpBulucu
 cd IpBulucu
-python setup.py
-python ipbulucu.py
+python3 setup.py
+python3 ipbulucu.py
 ```
 
